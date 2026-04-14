@@ -1,190 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/morristown-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/montclair-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/summit-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/ridgewood-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/westfield-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/princeton-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/hoboken-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/maplewood-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/chatham-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/livingston-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/short-hills-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/bernardsville-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/far-hills-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/mendham-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/chester-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/basking-ridge-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/warren-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/watchung-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/mountainside-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/madison-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/florham-park-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/millburn-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/glen-rock-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/wyckoff-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/franklin-lakes-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/saddle-river-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/ho-ho-kus-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/tenafly-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/alpine-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://nuancelogic.netlify.app/locations/landscapers/colts-neck-nj/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
+  <url><loc>https://nuancelogic.netlify.app/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/morristown-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/montclair-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/summit-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/ridgewood-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/westfield-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/princeton-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/hoboken-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/maplewood-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/chatham-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/livingston-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/short-hills-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/bernardsville-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/far-hills-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/mendham-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/chester-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/basking-ridge-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/warren-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/watchung-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/mountainside-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/madison-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/florham-park-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/millburn-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/glen-rock-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/wyckoff-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/franklin-lakes-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/saddle-river-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/ho-ho-kus-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/tenafly-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/alpine-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/colts-neck-nj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/scarsdale-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/bronxville-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/rye-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/harrison-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/larchmont-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/pelham-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/armonk-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/bedford-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/chappaqua-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/katonah-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/pleasantville-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/briarcliff-manor-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/irvington-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/dobbs-ferry-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/oyster-bay-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/locust-valley-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/old-westbury-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/manhasset-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/garden-city-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/huntington-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/cold-spring-harbor-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/nyack-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/rhinebeck-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/tuxedo-park-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/southold-ny/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/greenwich-ct/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/darien-ct/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/new-canaan-ct/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/westport-ct/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/wilton-ct/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/weston-ct/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/ridgefield-ct/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/redding-ct/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/fairfield-ct/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/trumbull-ct/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/monroe-ct/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/newtown-ct/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/woodbridge-ct/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/avon-ct/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/simsbury-ct/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/wayne-pa/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/villanova-pa/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/bryn-mawr-pa/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/haverford-pa/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/radnor-pa/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/malvern-pa/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/berwyn-pa/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/newtown-square-pa/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/media-pa/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/west-chester-pa/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/doylestown-pa/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/new-hope-pa/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/newtown-pa/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/yardley-pa/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nuancelogic.netlify.app/locations/landscapers/blue-bell-pa/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
